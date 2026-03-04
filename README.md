@@ -11,7 +11,7 @@ favorite package manager, or install from source.
 <b>This tool is provided for educational and research purpose only. Extion infotech is not responsible for any misuse of this tool. 
 We use it to test under NDA agreements with clients and their consents for pentesting purposes and we never encourage to misuse or take responsibility for any damage caused !
 #
-# Extion Infotech Scanner Tool - Exmap 
+# Extion Infotech Scanner Tool - Exmap by Aryan Singh
 # This tools is developed by Extion infotech for testing and practicing of Cybersecurity interns 
 
 The script utilizes Python's magical f-strings, so Python 3.6 or above
@@ -29,7 +29,7 @@ the script will prompt you for all of the required scanning options.
  █████╗     ███║   ██╔████╔██║ ███████║ ██████╔╝
  ██╔══╝    ██╔██   ██║╚██╔╝██║ ██╔══██║ ██╔═══╝ 
  ███████╗ ██║  ██║ ██║ ╚═╝ ██║ ██║  ██║ ██║     
- ╚══════╝ ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝     By Extion Infotech       
+ ╚══════╝ ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝     By Aryan Singh       
     
 
 Scan Type
